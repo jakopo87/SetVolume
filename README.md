@@ -5,4 +5,4 @@ Command line utility to set the volume of the default playback device
 ````
   SetVolume.exe n
 ````
-n in an integer between 0 and 100
+n is an integer between 0 and 100
